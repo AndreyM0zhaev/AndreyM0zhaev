@@ -3,8 +3,10 @@ Hi all.
 My name is Andrey and I am a quality assurance engineer. 
 I like my job, find bugs, improve software and be useful.
 
+___
+
 ## **My hard skills**
-* ***Testing documentation***. Creating checklists, test cases, and bug reports
+* ***Testing documentation***. Writing technical documentation (Dr.Explain), creating checklists and test cases (Confluence, Zephyr), creating bug reports in bugtracking system Jira
 
 * ***DevTools***. Viewing code elements, errors, scripts, server requests and
 responses. Changing user agent, location, adaptive and
@@ -15,6 +17,10 @@ less, date, cur
 
 * ***ADB***. Installation and removal of the application, viewing and saving
 logs, screenshots
+
+## **Education**
+
+## **Work experience**
 
 <!--
 **AndreyM0zhaev/AndreyM0zhaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
