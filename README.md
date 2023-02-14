@@ -1,5 +1,6 @@
 # ***About me***
-
+Hi all. My name is Andrey and I am a quality assurance engineer. 
+I like my job, find bugs, improve software and be useful.
 <!--
 **AndreyM0zhaev/AndreyM0zhaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
