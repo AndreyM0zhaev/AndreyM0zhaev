@@ -1,6 +1,6 @@
 # ***About me***
 Hi all. 
-* My name is Andrey and I am a quality assurance engineer. 
+My name is Andrey and I am a quality assurance engineer. 
 I like my job, find bugs, improve software and be useful.
 
 ## **My hard skills**
