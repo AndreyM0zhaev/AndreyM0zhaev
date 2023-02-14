@@ -26,6 +26,8 @@ less, date, cur
 * ***ADB***. Installation and removal of the application, viewing and saving
 logs, screenshots
 
+## :hammer_and_wrench: Languages and Tools :
+
 ___
 
 ## **Education**
