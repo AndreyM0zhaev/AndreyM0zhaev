@@ -5,7 +5,7 @@ I like my job, find bugs, improve software and be useful.
 
 ## **My hard skills**
 * *Testing documentation*
-     Creating checklists, test cases, and bug reports
+    1.  Creating checklists, test cases, and bug reports
 
 * *DevTools*
     Viewing code elements, errors, scripts, server requests and
