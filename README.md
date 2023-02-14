@@ -13,7 +13,7 @@ I like my job, find bugs, improve software and be useful.
 
 ___
 
-## **My hard skills**
+## :muscle:**My hard skills**
 * ***Testing documentation***. Writing technical documentation (Dr.Explain), creating checklists and test cases (Confluence, Zephyr), creating bug reports in bugtracking system Jira
 
 * ***DevTools***. Viewing code elements, errors, scripts, server requests and
