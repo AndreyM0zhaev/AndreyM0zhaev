@@ -2,6 +2,9 @@
 Hi all. 
 My name is Andrey and I am a quality assurance engineer. 
 I like my job, find bugs, improve software and be useful.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZfU11ODanloCA/giphy.gif" width="100"/>
+</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrey-mozhaev-a90731133">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
