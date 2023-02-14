@@ -3,7 +3,7 @@ Hi all.
 My name is Andrey and I am a quality assurance engineer. 
 I like my job, find bugs, improve software and be useful.
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/andrey-mozhaev-a90731133)">
+  <a href="https://www.linkedin.com/in/andrey-mozhaev-a90731133">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
