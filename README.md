@@ -18,7 +18,11 @@ less, date, cur
 * ***ADB***. Installation and removal of the application, viewing and saving
 logs, screenshots
 
+___
+
 ## **Education**
+
+___
 
 ## **Work experience**
 
