@@ -4,7 +4,7 @@ My name is Andrey and I am a quality assurance engineer.
 I like my job, find bugs, improve software and be useful.
 
 ## **My hard skills**
-* *Testing documentation*. Creating checklists, test cases, and bug reports
+* ***Testing documentation***. Creating checklists, test cases, and bug reports
 
 * *DevTools*. Viewing code elements, errors, scripts, server requests and
 responses. Changing user agent, location, adaptive and
