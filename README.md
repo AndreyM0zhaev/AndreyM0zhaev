@@ -4,21 +4,16 @@ My name is Andrey and I am a quality assurance engineer.
 I like my job, find bugs, improve software and be useful.
 
 ## **My hard skills**
-* *Testing documentation*
-    1.  Creating checklists, test cases, and bug reports
+* *Testing documentation*. Creating checklists, test cases, and bug reports
 
-* *DevTools*
-    Viewing code elements, errors, scripts, server requests and
-responses. 
-    Changing user agent, location, adaptive and
+* *DevTools*. Viewing code elements, errors, scripts, server requests and
+responses. Changing user agent, location, adaptive and
 responsive design, throttling.
 
-* *Git Bash*
-    pwd, ls, mkdir, cd, touch, cat, ls, vim, mv, cp, find, grep, head, tail,
+* *Git Bash*. pwd, ls, mkdir, cd, touch, cat, ls, vim, mv, cp, find, grep, head, tail,
 less, date, cur
 
-* *ADB*
-    Installation and removal of the application, viewing and saving
+* *ADB*. Installation and removal of the application, viewing and saving
 logs, screenshots
 
 <!--
