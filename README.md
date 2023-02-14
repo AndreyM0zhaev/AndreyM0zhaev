@@ -10,6 +10,7 @@ I like my job, find bugs, improve software and be useful.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 ___
 
 ## **My hard skills**
