@@ -14,6 +14,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
   <a href="mozhaev.andrey.v@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyM0zhaev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
