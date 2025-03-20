@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced QA Engineer with over 5 years of expertise in functional testing.<br>Proficient in Python, Selenium, and CI/CD tools, with a strong background in API<br>testing, database management, and test automation. Skilled in mentoring teams,<br>optimizing testing processes, and delivering high-quality software solutions.<br>Constantly improving skills through specialized courses and hands-on experience<br>to stay ahead in the rapidly evolving IT industry.
+Experienced QA Engineer with over 5 years of expertise in functional testing. Proficient in Python, Selenium, and CI/CD tools, with a strong background in API<br>testing, database management, and test automation. Skilled in mentoring teams,<br>optimizing testing processes, and delivering high-quality software solutions.<br>Constantly improving skills through specialized courses and hands-on experience<br>to stay ahead in the rapidly evolving IT industry.
 
 
 ## 🌐 Socials:
