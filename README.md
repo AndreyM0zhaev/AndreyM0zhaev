@@ -75,10 +75,14 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AndreyM0zhaev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AndreyM0zhaev&icon=3&color=13)](https://visitcount.itsvg.in)
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AndreyM0zhaev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Stats">
+    <div>
+        <a href="https://visitcount.itsvg.in">
+            <img src="https://visitcount.itsvg.in/api?id=AndreyM0zhaev&icon=3&color=13" alt="Visit Count">
+        </a>
+    </div>
+</div>
 
 ###
 
