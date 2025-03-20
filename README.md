@@ -57,6 +57,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="30" alt="grafana logo"  />
 </div>
 
+---
 ###
 
 # 📊 GitHub Stats:
