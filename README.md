@@ -40,7 +40,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
   <img width="5" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="30" alt="pytest logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="30" alt="selenium logo"  />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" height="30" alt="confluence logo"  />
   <img width="5" />
@@ -52,7 +52,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
   <img width="5" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="30" alt="selenium logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="30" alt="grafana logo"  />
 </div>
