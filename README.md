@@ -62,17 +62,9 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AndreyM0zhaev&theme=nightowl&hide_border=false" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AndreyM0zhaev&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
