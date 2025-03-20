@@ -51,6 +51,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
   <img width="12" />
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="40" alt="grafana logo"  />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AndreyM0zhaev&theme=nightowl&hide_border=false)<br/>
