@@ -18,10 +18,3 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
 ---
 [![](https://visitcount.itsvg.in/api?id=AndreyM0zhaev&icon=3&color=13)](https://visitcount.itsvg.in)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
