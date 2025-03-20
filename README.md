@@ -1,57 +1,21 @@
-# ***About me***
-Hi all. 
-My name is Andrey and I am a quality assurance engineer. 
-I like my job, find bugs, improve software and be useful.
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZfU11ODanloCA/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrey-mozhaev-a90731133">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-___
-
-## :muscle:**My hard skills**
-* ***Testing documentation***. Writing technical documentation (Dr.Explain), creating checklists and test cases (Confluence, Zephyr), creating bug reports in bugtracking system Jira
-
-* ***DevTools***. Viewing code elements, errors, scripts, server requests and
-responses. Changing user agent, location, adaptive and
-responsive design, throttling.
-
-* ***Git Bash***. pwd, ls, mkdir, cd, touch, cat, ls, vim, mv, cp, find, grep, head, tail,
-less, date, cur
-
-* ***ADB***. Installation and removal of the application, viewing and saving
-logs, screenshots
-
-### :hammer_and_wrench: Languages and Tools :
-
-___
-
-## **Education**
-
-___
-
-## **Work experience**
-
-___
+# 💫 About Me:
+Experienced QA Engineer with over 5 years of expertise in functional testing.<br>Proficient in Python, Selenium, and CI/CD tools, with a strong background in API<br>testing, database management, and test automation. Skilled in mentoring teams,<br>optimizing testing processes, and delivering high-quality software solutions.<br>Constantly improving skills through specialized courses and hands-on experience<br>to stay ahead in the rapidly evolving IT industry.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyM0zhaev&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyM0zhaev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**AndreyM0zhaev/AndreyM0zhaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrey-mozhaev-a90731133?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BF98UtLvDTGOH6WtJ2S2%2B%2Fw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mozhaev.andrey.v@gmail.com) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AndreyM0zhaev&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AndreyM0zhaev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AndreyM0zhaev&icon=3&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
