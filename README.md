@@ -3,7 +3,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 <div align="left">
   <a href="https://www.linkedin.com/in/andrey-mozhaev-a90731133?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BF98UtLvDTGOH6WtJ2S2%2B%2Fw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -18,7 +18,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ###
 
 <div align="center">
@@ -60,7 +60,7 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
 ---
 ###
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndreyM0zhaev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
@@ -76,14 +76,10 @@ Experienced QA Engineer with over 5 years of expertise in functional testing. Pr
 
 ### 🔝 Top Contributed Repo
 
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=AndreyM0zhaev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Stats">
-    <div>
-        <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=AndreyM0zhaev&icon=3&color=13" alt="Visit Count">
-        </a>
-    </div>
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=AndreyM0zhaev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AndreyM0zhaev&icon=3&color=13)](https://visitcount.itsvg.in)
 
 ###
 
